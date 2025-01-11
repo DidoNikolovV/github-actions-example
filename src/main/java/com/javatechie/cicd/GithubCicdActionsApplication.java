@@ -15,12 +15,4 @@ public class GithubCicdActionsApplication {
     public String welcome() {
         return "Welcome to javatechie !";
     }
-
-//    git init
-//    git add README.md
-//    git commit -m "first commit"
-//    git branch -M main
-//    git remote add origin https://github.com/DidoNikolovV/github-actions-example.git
-//    git push -u origin main
-
 }
